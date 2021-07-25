@@ -1,0 +1,82 @@
+body {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: rgba(251, 221, 81);
+    font-family: Meticula;
+}
+
+.topo {
+    background: black;
+}
+
+.centro {
+    margin-top: 8rem;
+    padding: 3rem;
+    margin-bottom: 8rem;
+}
+
+.box {
+    margin-top: 4rem;
+    background-color: rgba(0, 0, 0, 0.7);
+    min-width: 30%;
+    max-height: 30%;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.card {
+    border-radius: 20px;
+}
+
+.card-img-top {
+    width: 12rem;
+    height: 9rem;
+    padding: 0.5rem;
+}
+
+.dropdown-item,
+.dropdown-menu {
+    background: black;
+    color: white;
+}
+
+.table {
+    background-color: rgb(255, 255, 240);
+    margin-top: 2rem;
+}
+
+.thead {
+    background-color: black;
+    color: white;
+}
+
+.btn {
+    background-color: black;
+}
+
+.pad {
+    margin-top: 4rem;
+}
+
+.display {
+    background-color: black;
+    color: white;
+    font-size: 1.25rem;
+}
+
+.tabela {
+    margin-top: 4rem;
+}
+
+tbody {
+    color: black;
+}
+
+.boxtable {
+    background-color: rgba(251, 221, 81, 0.7);
+}
+
+.input {
+    background-color: black;
+}

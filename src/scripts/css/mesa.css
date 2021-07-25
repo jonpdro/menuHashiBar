@@ -1,0 +1,13 @@
+body {
+    background: #FBDD51;
+    color: white;
+    font-family: Meticula;
+}
+
+.container {
+    background: black;
+    border-radius: 20px;
+    margin-top: 10em;
+    margin-bottom: 10em;
+    width: 55.5em;
+}
